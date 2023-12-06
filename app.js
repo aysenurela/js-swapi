@@ -19,8 +19,8 @@ const createInfoCard = (person) => {
   
 }
 
-// Example Usage (starting the project)
+// Task 4: Initiate project
 fetchData().then(() => {
   const filteredData = filterData(data);
-  // filteredData.forEach(...);
+  // filteredData.forEach
 });
